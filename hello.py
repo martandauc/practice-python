@@ -1,2 +1,2 @@
 print("Hello from GitHub!")
-Add hello.py with greeting message
+print("Nice to meet you!")
